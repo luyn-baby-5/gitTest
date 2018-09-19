@@ -1,2 +1,1 @@
-hello git
-这是个例子
+hello gityanzheng
